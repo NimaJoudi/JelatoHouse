@@ -22,8 +22,8 @@ const variants = {
 		},
 	},
 	outlined: {
-		primary: "text-primary-500 border border-primary-500",
-		secondary: "text-secondary-500 border border-secondary-500",
+		primary: "text-white border border-primary-500",
+		secondary: "text-white border border-secondary-500",
 		sizes: {
 			small: "px-2 py-1 text-sm",
 			medium: "px-4 py-2 text-base",
@@ -31,8 +31,8 @@ const variants = {
 		},
 	},
 	text: {
-		primary: "text-gray-900",
-		secondary: "text-gray-900",
+		primary: "text-white",
+		secondary: "text-white",
 		sizes: {
 			small: "p-1 text-sm",
 			medium: "p-2 text-base",

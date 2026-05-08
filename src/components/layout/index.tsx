@@ -9,7 +9,7 @@ const Layout: FC<PropsWithChildren> = ({children}) => {
 			
 			<Header/>
 			
-			<main>
+			<main className="bg-gray-700">
 				{children}
 			</main>
 
